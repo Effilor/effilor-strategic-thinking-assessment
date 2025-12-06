@@ -1,5 +1,6 @@
 {
   "buildCommand": null,
   "outputDirectory": null,
-  "installCommand": null
+  "installCommand": null,
+  "type": "module"
 }
